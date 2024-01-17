@@ -1,1 +1,11 @@
-![Alt text](src/assests/preview1.png)
+# HomePage
+![Alt text](./src/assets/preview1.png)
+
+# Single Pokemon Data
+![Alt text](./src/assets/preview2.png)
+
+# Search Pokemon 
+![Alt text](./src/assets/preview4.png)
+
+# Loading State
+![Atl text](./src//assets/preview3.png)
