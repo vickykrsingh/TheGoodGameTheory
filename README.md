@@ -1,3 +1,9 @@
+# How to run Project 
+```bash
+$ npm install
+$ npm run dev
+```
+
 # HomePage
 ![Alt text](./src/assets/preview1.png)
 
